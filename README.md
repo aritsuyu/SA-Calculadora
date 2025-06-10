@@ -1,17 +1,25 @@
-# SA 2025 - Desenvolvimento de Sistemas
+#  SA 2025 - Desenvolvimento de Sistemas
 Este projeto foi desenvolvido por mim como parte da atividade avaliativa (SA) do curso de Desenvolvimento de Sistemas. O objetivo foi criar uma calculadora em terminal, feita em Java, que calcula diversas fórmulas utilizadas no 2º ano do Ensino Médio
 
 A calculadora possui um banco de dados com cerca de 28 fórmulas das disciplinas de Matemática, Física e Química
 
 <img src="https://github.com/aritsuyu/SA-Calculadora/blob/main/Lib/Imagens/Captura%20de%20tela%202025-06-10%20074642.png" width="825"/>
 
-## Funcionalidades ✨
+## ✨ Funcionalidades 
 - Calculadora de Formulas em Prompt
 - Banco de dados de Formulas extenso
 - Facil de se utilizar
 - Faz calculos
 
-## Rodando localmente
+## 📝 Planejamento 
+- [x] Facil de Utilizar
+- [x] Leve <100kb
+- [ ] Configurações
+- [ ] Auto calculo
+- [ ] Portable
+- [ ] Auto compilado (.exe)
+- [ ] Calculadora Basica
+## 🔥 Rodando localmente
 Primeiramente baixe o Git-Clone
 No Powershell execute o seguinte comando
 ```
@@ -34,12 +42,15 @@ Execute o Programa
 ```
   java main.java
 ```
-## Contribuidores
+## ⭐ Contribuidores
 <a href="https://github.com/aritsuyu/SA-Calculadora/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aritsuyu/SA-Calculadora" />
 </a>
 
-## 🔗 Links
+## o Que foi utilizado?
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/> <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+## 🔗 Links 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vitor-gabriel-crispim-b751382a2)
 
 
