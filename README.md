@@ -3,9 +3,21 @@ Este projeto foi desenvolvido por mim como parte da atividade avaliativa (SA) do
 
 A calculadora possui um banco de dados com cerca de 28 fórmulas das disciplinas de Matemática, Física e Química
 
+<img src="https://github.com/aritsuyu/SA-Calculadora/blob/main/Lib/Imagens/Captura%20de%20tela%202025-06-10%20074642.png" width="825"/>
+
+## Funcionalidades ✨
+- Calculadora de Formulas em Prompt
+- Banco de dados de Formulas extenso
+- Facil de se utilizar
+- Faz calculos
 
 ## Rodando localmente
-
+Primeiramente baixe o Git-Clone
+No Powershell execute o seguinte comando
+```
+winget install --id Git.Git -e --source winget
+```
+Agora no CMD
 Clone o projeto
 
 ```bash
@@ -22,7 +34,12 @@ Execute o Programa
 ```
   java main.java
 ```
+## Contribuidores
+<a href="https://github.com/aritsuyu/SA-Calculadora/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aritsuyu/SA-Calculadora" />
+</a>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vitor-gabriel-crispim-b751382a2)
+
 
