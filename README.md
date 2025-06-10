@@ -17,16 +17,11 @@ Entre no diretório do projeto (caso você tenha baixado o raw copie o endereço
 ```bash
   cd SA-Calculadora
 ```
-Compile o Projeto
 
-```
-  javac **/*.java
-```
 Execute o Programa
 ```
-  java code
+  java main.java
 ```
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vitor-gabriel-crispim-b751382a2)
