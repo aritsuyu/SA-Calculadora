@@ -13,6 +13,7 @@ public class equacao2grau {
 
         if (a == 0) {
             System.out.println("Não é uma equação do 2º grau (a não pode ser zero).");
+            scanner.close();
             return;
         }
 

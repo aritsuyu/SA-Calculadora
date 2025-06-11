@@ -32,14 +32,14 @@ Entre no diretório do projeto (caso você tenha baixado o raw copie o endereço
 
 Execute o Programa
 ```
-  java main.java
+  java calculadora.java
 ```
 ## Contribuidores
 <a href="https://github.com/aritsuyu/SA-Calculadora/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aritsuyu/SA-Calculadora" />
 </a>
 
-## 🔗 Links
+## Links 🔗
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vitor-gabriel-crispim-b751382a2)
 
 

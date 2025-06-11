@@ -8,7 +8,17 @@ public class index {
         int choice;
         do {
             System.out.println("\n===== MENU DE FÓRMULAS =====");
-            System.out.println("\n===== Matemática =====");
+            System.out.println("\n===== Matemática Basica =====");
+            System.out.println("0  - Soma");
+            System.out.println("0  - Subtração");
+            System.out.println("0  - Multiplicação");
+            System.out.println("0  - Divisão");
+            System.out.println("0  - Raiz Quadrada");
+            System.out.println("0  - Potência");
+            System.out.println("0  - Fatorial");
+            System.out.println("0  - Máximo Divisor Comum (MDC)");
+            System.out.println("0  - Mínimo Múltiplo Comum (MMC)");
+            System.out.println("\n===== Matemática Avançada =====");
             System.out.println("1  - Equação do 1º grau");
             System.out.println("2  - Equação do 2º grau (Bhaskara)");
             System.out.println("3  - Fórmula do Delta");
